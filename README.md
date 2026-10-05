@@ -47,14 +47,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkersolver100&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thinkersolver100&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thinkersolver100&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/thinkersolver100/thinkersolver100/output/github-contribution-grid-snake-dark.svg" />
@@ -62,7 +54,7 @@
 
 ### 📫 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/shikhar-gupta-b5730630b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shikhar-gupta-b5730630b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mr.shikhar100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
